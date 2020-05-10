@@ -1,8 +1,26 @@
 ---
-layout: post
+layout: single
 title:  "Testing testing - luxu.win!"
 date:   2020-04-25 21:55:09 -0400
-categories: test
+categories: cat_test
+tags: tag_test
+excerpt: "some description for preview"
+header:
+  teaser: /assets/images/test-teaser.jpg
+  overlay_image: /assets/images/header.jpg
+gallery:
+  - url: /assets/images/test-gallery-1.jpg
+    image_path: /assets/images/test-gallery-1.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/test-gallery-2.jpg
+    image_path: /assets/images/test-gallery-2.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/test-gallery-3.jpg
+    image_path: /assets/images/test-gallery-3.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -23,6 +41,9 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

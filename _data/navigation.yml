@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: Home
+    url: ./index.html
+  - title: "About"
+    url: ./about/
+  - title: "Tags"
+    url: ./tags/
+  - title: "Categories"
+    url: ./categories/
+  - title: "By-Year"
+    url: ./year-archive/
+#  - title: "Gallery"
+#    url: /gallery/
+#  - title: "Pages"
+#    url: ./page-archive/
+#  - title: "Collections"
+#    url: ./collection-archive/
+#  - title: "Sitemap"
+#    url: ./sitemap/
