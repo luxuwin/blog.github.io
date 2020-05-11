@@ -31,9 +31,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : staticman_v2 # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : disqus_luxuwin_blog # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -45,8 +45,8 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : "master"
-    endpoint             : "https://{your Staticman v3 API}/v3/entry/github/luxuwin/blog.giyhub.io"
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/luxuwin/blog.giyhub.io"
 reCaptcha:
   siteKey                :
   secret                 :
