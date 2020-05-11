@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
-permalink: /Year-Archive/
+permalink: /year-archive/
 layout: posts
 entries_layout: grid
 classes: wide
