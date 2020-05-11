@@ -1,0 +1,40 @@
+---
+
+title: Raspberry Pi - Get Started
+date: 2015-12-20 20:41:25.000000000 -05:00
+
+categories:
+- DIY
+- Raspberry Pi
+tags: []
+meta:
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_job_id: '17980380812'
+
+permalink: "/2015/12/20/raspberry-pi-get-started/"
+---
+In this post, we will set up our brand new Raspberry Pi for the first-time use. Getting excited? Let's go!<!--more-->
+To get started with Respberry Pi, first, let's get a few extra devices:
+
+SD card - get this from my old camera
+HDMI cable - to connect to a monitor or TV
+Keyboard and mouse
+Power - a 5V micro USB power supply, used by most Android phones nowadays
+Internet - either an ethernet cable or a wifi adapter like <a href="http://www.amazon.com/gp/product/B003MTTJOY?psc=1&amp;redirect=true&amp;ref_=oh_aui_detailpage_o08_s00">this</a>. Make sure you have a ethernet cable to begin with, since wiki may need extra configuration at beginning.
+
+Now once have all the devices (except SD card) get up, let's do the software part
+
+Copy OS to SD following <a href="https://www.raspberrypi.org/downloads/raspbian/">this</a>. There are quite a few options available, and I picked the most common one <strong>Raspbian</strong>. It is derived from Debian with some optimization specifically for Raspberry Pi.
+Log in for the first time. The default username is "pi", and the default password is "raspberry".
+After that, you will be directed to the "raspi-config". Or you can bring it up by type <em>sudo raspi-config</em>
+You can bring up the GUI by typing <em>startx</em>
+Update/upgrade the system/softwares:
+
+<em>sudo apt-get update</em>
+<em>sudo apt-get upgrade</em>
+
+
+
+Now you are up running with the new Raspbian.
+In the next post, I will set up remote access and hook it up with external storage.

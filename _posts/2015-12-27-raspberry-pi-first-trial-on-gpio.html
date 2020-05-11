@@ -1,0 +1,30 @@
+---
+
+title: Raspberry Pi - GPIO Introduction
+date: 2015-12-27 19:07:32.000000000 -05:00
+
+categories:
+- DIY
+- Raspberry Pi
+tags: []
+meta:
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_job_id: '18163315201'
+
+permalink: "/2015/12/27/raspberry-pi-first-trial-on-gpio/"
+---
+GPIO (general purpose input/output), is one of the most interesting thing on Raspberry Pi.
+<em>"These pins are a physical interface between the Pi and the outside world. At the simplest level, you can think of them as switches that you can turn on or off (input) or that the Pi can turn on or off (output). --- raspberrypi.org"</em><!--more-->
+<img class="aligncenter size-full wp-image-483" src="{{ site.baseurl }}/assets/iot-rpi2-board_invariantculture_default.png" alt="iot-rpi2-board_invariantculture_default" width="750" height="540" />The row of pings near the upper edge are GPIO pins. Ok, I have to admit they look ugly at the first look. But let's they can provide the connections between the physical world and the virtual world inside the computer (imagine the much bigger pin plugged into Neo's neck in the Matrix).
+Here, just to copy a GPIO's layout for future reference. We will go through them in details when needed in the future.<img class="alignnone size-full wp-image-510" src="{{ site.baseurl }}/assets/gpio_pi2.png" alt="gpio_pi2" width="956" height="1024" />
+In the next few posts, I will jump back and forth between those two worlds, trying to build a connection.
+To make things easy, I used Python (and just a little C) as my language(s) in the virtual world, while need some physical devices in the other world. Here are what I have got
+
+Robot car chasis with two little motors: <a href="http://www.amazon.com/Motor-Chassis-Classis-Wheels-Battery/dp/B00J0NI6DQ">link</a>
+A lot of <a href="http://www.aliexpress.com/item/16pcs-lot-Raspberry-pi-2-the-sensor-module-package-16-kinds-of-sensor-Free-shipping/32347143527.html">sensors</a>. I don't know if I indeed need so many sensors, but just as a beginner, it is just fun to play with all these sensors to know what are the options. Besides, those sensors are inexpensive on AliExpress. I will report along with my experience on their qualities.
+<a href="http://www.aliexpress.com/item/5PCS-L293-L293D-DIP-16-Driver-IC/32410417971.html">L293D chip</a>:  to control motors
+Jump wires: both male and females
+Breadboard
+
+Ok, now we are ready to starting our journey of the two worlds.

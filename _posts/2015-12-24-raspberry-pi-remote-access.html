@@ -1,0 +1,39 @@
+---
+
+title: Raspberry Pi - Remote Access
+date: 2015-12-24 04:03:57.000000000 -05:00
+
+categories:
+- DIY
+- Raspberry Pi
+tags: []
+meta:
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_job_id: '18077697446'
+
+permalink: "/2015/12/24/raspberry-pi-remote-access/"
+---
+Now that our little Raspberry Pi is running, time to move on to make it convenient for daily use.<!--more-->
+I like to have my Raspberry Pi on all the time as a small network drive to sync all my files, and stream music and videos. I keep it in the corner of my closet and plan not to touch it forever. In this case, remote access is the way to go. You can also use it as a external TV box so you can stream Netflix or YouTube. We will get into this later. (BTW, Raspberry Pi is optimized for graphics, so it can handle video well, which makes it ideal as a TV box. Just make sure it has good internet connection)
+We want to be able to access it remotely, instead of connecting it to a monitor or TV every time. Here is my solutions:
+
+Get the IP address: open a terminal and type <em>ifconfig. </em>The local IP address typically looks like 192.168.X.X.
+<a href="https://www.raspberrypi.org/documentation/remote-access/ssh/">Enable SSH</a>: by default SSH is installed, but check it for sure. (BTW, remember to <a href="https://www.raspberrypi.org/documentation/configuration/raspi-config.md">change password</a> if you haven't).
+Connect SSH remotely: now hop to another computer and connect SSH. I like <a href="http://www.putty.org/">PuTTY</a> which is a light weighted terminal, but choose any one you like. With this, you can do everything through the comment like. Sure you are already feeling comfortable if you started your computer experience from last century, but let's use some 20th century stuff next
+If you are using Mac or Linux, you need to enable X11 Forwarding. Just google the keyword and you will find thousands instructions. I am using Windows, so <a href="http://sourceforge.net/projects/xming/">Xming</a> suits my need.
+
+After installing Xming, configure PuTTY Configuration-&gt;Connection-&gt;SSH-&gt;X11: check Enable X11 Forwarding
+Reconnect via SSH and type leafpad. After a few seconds, if you see a text editor pops up, then it is working!
+
+
+You can also type <em>xstart</em> to open the Raspberry Pi desktop. But personally, I prefer to launching the desktop by using Windows' remote desktop. Just open Remote Desktop Connection and enter the IP address, user name &amp; password, you can access its desktop now!
+
+A few useful graphic commands
+
+open file manager: <em>xdg-open .</em>
+text editor: leafpad
+
+&nbsp;
+Ok, as a next step, I will try to set it up as a media server, and then I plan to spend sometime on its powerful GPIO. Getting ready!
+&nbsp;
