@@ -2,11 +2,9 @@
 title: Dyker Heights NY, Dec 2015
 date: 2015-12-25 15:49:35.000000000 -05:00
 categories:
-- Photography
+  - Photography
 permalink: "/2015/12/25/dyker-heights-ny-dec-2015/"
 excerpt: "Dyker Heights NY, Dec 2015. The warmest christmas eve ever in the most beautiful neighborhood."
-header:
-  teaser: /assets/images/2015/12/dsc01572.jpg
 gallery:
   - url: /assets/images/2015/12/dsc01572.jpg
     image_path: /assets/images/2015/12/dsc01572.jpg
@@ -36,6 +34,9 @@ gallery:
     image_path: /assets/images/2015/12/dsc01621.jpg
     alt: ""
     title: ""   
+header:
+  teaser: /assets/images/2015/12/dsc01572.jpg
 ---
 
-{% include gallery caption="Dyker Heights NY, Dec 2015. The warmest christmas eve ever in the most beautiful neighborhood." %}
+The warmest christmas eve ever in the most beautiful neighborhood.
+{% include gallery caption="Dyker Heights NY, Dec 2015." %}
