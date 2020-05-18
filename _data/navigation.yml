@@ -4,11 +4,11 @@ main:
     url: ./index.html
   - title: "About"
     url: ./about/
-  - title: "Tags"
-    url: ./tags/
+  # - title: "Tags"
+  #   url: ./tags/
   - title: "Categories"
     url: ./categories/
-  - title: "By-Year"
+  - title: "Archive"
     url: ./year-archive/
 #  - title: "Gallery"
 #    url: /gallery/
