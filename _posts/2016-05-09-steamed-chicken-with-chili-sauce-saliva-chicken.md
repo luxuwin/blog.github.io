@@ -3,7 +3,6 @@ title: Steamed Chicken with Chili Sauce ('Saliva' Chicken)
 date: 2016-05-09 01:57:50.000000000 -04:00
 categories:
 - Food
-permalink: "/2016/05/09/steamed-chicken-with-chili-sauce-saliva-chicken/"
 excerpt: "This is a well-known SiChuan dish, featuring the red oil made from chili powder. "
 header:
   teaser: /assets/images/2016/05/chicken.jpg

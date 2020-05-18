@@ -3,7 +3,6 @@ title: Holiday Season at Manhattan, December 2016
 date: 2016-12-13 19:39:37.000000000 -05:00
 categories:
 - Photography
-permalink: "/2016/12/13/holiday-season-at-manhattan-december-2016/"
 gallery:
   - url: /assets/images/2016/12/holiday.jpg
     image_path: /assets/images/2016/12/holiday.jpg

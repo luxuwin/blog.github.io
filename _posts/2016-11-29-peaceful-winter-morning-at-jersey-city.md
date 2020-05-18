@@ -3,7 +3,6 @@ title: Peaceful Winter Morning at Jersey City
 date: 2016-11-29 19:26:27.000000000 -05:00
 categories:
 - Photography
-permalink: "/2016/11/29/peaceful-winter-morning-at-jersey-city/"
 gallery:
   - url: /assets/images/2016/11/jc.jpg
     image_path: /assets/images/2016/11/jc.jpg

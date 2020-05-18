@@ -4,7 +4,6 @@ date: 2017-02-08 01:59:30.000000000 -05:00
 categories:
     - Food
 tags: []
-permalink: "/2017/02/08/eight-precious-pudding/"
 excerpt: "This is a traditional Chinese dessert that symbolizes the family reunion."
 header:
   teaser: /assets/images/2017/02/eight-precious-pudding.jpg

@@ -3,7 +3,6 @@ title: Sea Moss Biscuit
 date: 2015-12-27 22:59:55.000000000 -05:00
 categories:
 - Food
-permalink: "/2015/12/27/sea-moss-biscuit/"
 excerpt: "Dried sea moss is used in many traditional cuisines in Shanghai and Zhejiang area. The biscuit is one of my favorite."
 header:
   teaser: /assets/images/2015/12/seamoss.jpg

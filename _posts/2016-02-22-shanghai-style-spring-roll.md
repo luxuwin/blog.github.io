@@ -3,7 +3,6 @@ title: Shanghai Style Spring Roll
 date: 2016-02-22 02:38:30.000000000 -05:00
 categories:
 - Food
-permalink: "/2016/02/22/shanghai-style-spring-roll/"
 excerpt: "This is a lunar new year must have dish in our family"
 header:
   teaser: /assets/images/2016/02/springroll.jpg

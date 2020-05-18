@@ -3,7 +3,6 @@ title: Raspberry Pi - GPIO Introduction
 date: 2015-12-27 19:07:32.000000000 -05:00
 categories:
 - DIY
-permalink: "/2015/12/27/raspberry-pi-first-trial-on-gpio/"
 excerpt: "GPIO (general purpose input/output), is one of the most interesting thing on Raspberry Pi."
 ---
 GPIO (general purpose input/output), is one of the most interesting thing on Raspberry Pi.

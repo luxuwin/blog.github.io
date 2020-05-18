@@ -3,7 +3,6 @@ title: Raspberry Pi - Media Sharing
 date: 2015-12-27 18:48:18.000000000 -05:00
 categories:
 - DIY
-permalink: "/2015/12/27/raspberry-pi-media-sharing/"
 excerpt: "It is easy to set up Raspberry Pi as a media server, so you can share your music/video over the network."
 ---
 It is easy to set up Raspberry Pi as a media server, so you can share your music/video over the network. A few steps are needed to achieve that.

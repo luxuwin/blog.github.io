@@ -3,7 +3,6 @@ title: Running Headphone v2.0 -- Bluetooth
 date: 2016-07-10 02:47:47.000000000 -04:00
 categories:
 - DIY
-permalink: "/2016/07/10/running-headphone-v2-0-bluetooth/"
 excerpt: "Summer is awesome for running. But I am a bit tired of the swinging wires of my last DIY, which mounted my wired headphone to my hat. Ok, it's time for upgrade."
 header:
   teaser: /assets/images/2016/07/2016-07-09-22-34-59.jpg
