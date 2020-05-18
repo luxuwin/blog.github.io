@@ -7,8 +7,15 @@ categories:
 excerpt: "One of my favorite cuisine that reminds me of my family and childhood. Nothing is warmer and cozier than a bowl of home-made wontons after a day of work."
 header:
   teaser: /assets/images/2015/12/easy_crispy.jpg
-  overlay_image: /assets/images/2015/12/easy_crispy.jpg
-
+gallery:
+  - url: /assets/images/2015/12/easy_crispy.jpg
+    image_path: /assets/images/2015/12/easy_crispy.jpg
+    alt: ""
+    title: ""
+  - url: /assets/images/2015/12/easy_crispy_2.jpg
+    image_path: /assets/images/2015/12/easy_crispy_2.jpg
+    alt: ""
+    title: ""
 ---
 This is a Chinese traditional cookie 桃酥. I learned this from a good friend. It is a very easy recipe, requires very basic materials, and takes less than 20 minutes to prepare.
 
@@ -29,5 +36,5 @@ Recipe:
 4. Bake at 325F for 18 minutes - Done!
 
 
-![alt text](/assets/images/2015/12/easy_crispy_2.jpg)
+{% include gallery caption="" %}
 

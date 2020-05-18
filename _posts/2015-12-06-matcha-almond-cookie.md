@@ -8,7 +8,12 @@ categories:
 excerpt: "This recipe is inspired by a friend who taught me how to make butter cranberry cookie. Both of them are delicious and easy to make, and you can make it less sweeter as I feel most cookies sold in supermarkets contain too much sugar."
 header:
   teaser: /assets/images/2015/12/matcha.jpg
-  overlay_image: /assets/images/2015/12/matcha.jpg
+
+gallery:
+  - url: /assets/images/2015/12/matcha.jpg
+    image_path: /assets/images/2015/12/matcha.jpg
+    alt: ""
+    title: ""
 ---
 This recipe is inspired by a friend who taught me how to make butter cranberry cookie. Both of them are delicious and easy to make, and you can make it less sweeter as I feel most cookies sold in supermarkets contain too much sugar.
 
@@ -34,4 +39,6 @@ References:
 * [mold](http://www.ebay.com/itm/Wooden-Cookie-Cutters-Pine-Biscuit-Mold-Shaper-Wood-Frame-Rectangle-Shape-/151501446482?hash=item2346309d52:g:554AAOSw2XFUf6WB)
 * [matcha powder](https://www.amazon.com/Matcha-Green-Tea-Powder-Culinary/dp/B00DDT116M/ref=sr_1_3?ie=UTF8&qid=1449439087&sr=8-3&keywords=matcha+powder)
 * [A similar cranberry cookie recipe in chinese](http://www.xiachufang.com/recipe/100213345/)
+
+{% include gallery caption="" %}
 
