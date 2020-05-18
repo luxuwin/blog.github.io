@@ -6,6 +6,9 @@ date: 2015-12-06 22:02:43.000000000 -05:00
 categories:
 - Food
 excerpt: "This recipe is inspired by a friend who taught me how to make butter cranberry cookie. Both of them are delicious and easy to make, and you can make it less sweeter as I feel most cookies sold in supermarkets contain too much sugar."
+header:
+  teaser: /assets/images/2015/12/matcha.jpg
+  overlay_image: /assets/images/2015/12/matcha.jpg
 ---
 This recipe is inspired by a friend who taught me how to make butter cranberry cookie. Both of them are delicious and easy to make, and you can make it less sweeter as I feel most cookies sold in supermarkets contain too much sugar.
 
