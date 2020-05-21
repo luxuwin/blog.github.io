@@ -1,8 +1,8 @@
 ---
-title:  "Inside Octopus"
+title:  "Holiday Inside Octopus"
 date:   2018-11-20 00:00:01 -0400
 categories: Photography
-excerpt: "Inside Octopus, the path station in Manhattan"
+excerpt: "Holiday inside Octopus, the path station in Manhattan"
 header:
   teaser: /assets/images/2018/octopus.jpg
 gallery:
@@ -12,4 +12,4 @@ gallery:
     title: ""    
 ---
 
-{% include gallery caption="Inside Octopus, the path station in Manhattan" %}
+{% include gallery caption="Holiday inside Octopus, the path station in Manhattan" %}
