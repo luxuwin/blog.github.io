@@ -7,7 +7,7 @@ tags: tag_test
 excerpt: "some description for preview"
 header:
   teaser: /assets/images/test-teaser.jpg
-  overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/static/header.jpg
 gallery:
   - url: /assets/images/test-gallery-1.jpg
     image_path: /assets/images/test-gallery-1.jpg
