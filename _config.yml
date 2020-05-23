@@ -173,6 +173,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /script
   - jekyll-remote-theme
 keep_files:
   - .git
