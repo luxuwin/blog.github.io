@@ -3,7 +3,6 @@ title: Raspberry Pi - Control a servo
 date: 2015-12-28 16:48:01.000000000 -05:00
 categories:
 - DIY
-- Raspberry Pi
 excerpt: "A Servo is a small device that has an output shaft, which can be positioned to specific angular positions."
 header:
   teaser: /assets/images/2015/12/servo.jpg

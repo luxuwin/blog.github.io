@@ -3,7 +3,6 @@ title: Raspberry Pi - Remote Power Control with RF
 date: 2016-01-19 02:38:06.000000000 -05:00
 categories:
 - DIY
-- Raspberry Pi
 excerpt: "This time, I would like to share my experience in using a RF transmitter to control power outlet."
 header:
   teaser: /assets/images/2016/01/433mhz-rf-transmitter20web.jpg

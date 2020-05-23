@@ -4,7 +4,6 @@ date: 2016-01-10 20:37:15.000000000 -05:00
 categories:
 - DIY
 - Photography
-- Raspberry Pi
 excerpt: "Raspberry Pi is so powerful, I start asking 'can it control my camera'? "
 ---
 Raspberry Pi is so powerful, I start asking "can it control my camera"? I have been amazed by the fancy Time-Lapse photography, and wonder if Raspberry Pi can bring my experience to a new level. I have a Sony Mirrorless A6000, which comes with its own time-lapse app. But I don't quite like it for various reason (it costs 10 bucks!).
