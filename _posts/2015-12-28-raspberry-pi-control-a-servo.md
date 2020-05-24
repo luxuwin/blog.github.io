@@ -30,11 +30,11 @@ Next, before we move on to control the servo, let's spend a bit time learning w
 
 ![alt text](/assets/images/2015/12/pwm.png)
 
-This may sound intimidating, let's make it simply by our servo example. Our Rapberry Pi can send such square wave signal at frequency 50Hz (20ms per signal). The On part takes about 1~2ms in every cycle, while the rest is the Off part. At the same time, the little servo is listening through the PWM pin. Whenever it hears the frequency of On is at certain pre-specified value, it will rotate its shaft to certain angle. For my little servo, it can set its shaft to 0~180 degree by changing the On frequency between 1~2ms (at least that's how manual says).
+This may sound intimidating, let's make it simply by our servo example. Our Raspberry Pi can send such square wave signal at frequency 50Hz (20ms per signal). The On part takes about 1~2ms in every cycle, while the rest is the Off part. At the same time, the little servo is listening through the PWM pin. Whenever it hears the frequency of On is at certain pre-specified value, it will rotate its shaft to certain angle. For my little servo, it can set its shaft to 0~180 degree by changing the On frequency between 1~2ms (at least that's how manual says).
 
 Ok, now let's start diving into the coding part.
 
-First, import RPi.GPIO, which is a package specifically for Rapberry Pi. _GPIO.setmode_ specifies the numbering convention. I am using the board pin number directly.
+First, import RPi.GPIO, which is a package specifically for Raspberry Pi. _GPIO.setmode_ specifies the numbering convention. I am using the board pin number directly.
 {%highlight python %}
 import RPi.GPIO as GPIO
 import time

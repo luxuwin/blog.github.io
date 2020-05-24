@@ -9,7 +9,7 @@ excerpt: "In this post, we will set up our brand new Raspberry Pi for the first-
 ---
 In this post, we will set up our brand new Raspberry Pi for the first-time use. Getting excited? Let's go!
 
-To get started with Respberry Pi, first, let's get a few extra devices:
+To get started with Raspberry Pi, first, let's get a few extra devices:
 
 * SD card - get this from my old camera
 * HDMI cable - to connect to a monitor or TV

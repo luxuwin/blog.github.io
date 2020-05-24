@@ -14,8 +14,8 @@ I did a little search, and I found [this](https://www.amazon.com/Bluetooth-Baseb
 1. I don't like the hat style. I believe everyone has her/his favorite hat.
 2. The headphone becomes with it really sucks.
 
-Here is a semi-DIY. Beneath the fancy bluetooh patch, it has a small bluetooh box, which is soldered to a pair of cheap headphone. I also have a pair of old Sennheiser headphone, with a little issue with the male connector.
-The next is super easy, just cut my Sennheiser headphone and solder them to the bluetooh chip. Here it how it looks
+Here is a semi-DIY. Beneath the fancy bluetooth patch, it has a small bluetooh box, which is soldered to a pair of cheap headphone. I also have a pair of old Sennheiser headphone, with a little issue with the male connector.
+The next is super easy, just cut my Sennheiser headphone and solder them to the bluetooth chip. Here it how it looks
 ![alt text](/assets/images/2016/07/2016-07-09-22-30-49.jpg)
 
 

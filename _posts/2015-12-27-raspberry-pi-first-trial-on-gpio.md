@@ -19,7 +19,7 @@ Here, just to copy a GPIO's layout for future reference. We will go through them
 In the next few posts, I will jump back and forth between those two worlds, trying to build a connection.
 To make things easy, I used Python (and just a little C) as my language(s) in the virtual world, while need some physical devices in the other world. Here are what I have got
 
-1. Robot car chasis with two little motors: [link](http://www.amazon.com/Motor-Chassis-Classis-Wheels-Battery/dp/B00J0NI6DQ)
+1. Robot car chassis with two little motors: [link](http://www.amazon.com/Motor-Chassis-Classis-Wheels-Battery/dp/B00J0NI6DQ)
 2. A lot of [sensors](http://www.aliexpress.com/item/16pcs-lot-Raspberry-pi-2-the-sensor-module-package-16-kinds-of-sensor-Free-shipping/32347143527.html). I don't know if I indeed need so many sensors, but just as a beginner, it is just fun to play with all these sensors to know what are the options. Besides, those sensors are inexpensive on AliExpress. I will report along with my experience on their qualities.
 3. [L293D chip](http://www.aliexpress.com/item/5PCS-L293-L293D-DIP-16-Driver-IC/32410417971.html):  to control motors
 4. Jump wires: both male and females

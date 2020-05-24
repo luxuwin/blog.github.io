@@ -12,7 +12,7 @@ gallery:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
-* Cut 1 rack of port rib, marinate with soy sauce, cooking wine, pepper, salt, oyester sauce, hoisin sauce, honey, 5-spice powder (五香粉), cumin powder (孜然粉). Let it rest overnight.
+* Cut 1 rack of port rib, marinate with soy sauce, cooking wine, pepper, salt, oyster sauce, hoisin sauce, honey, 5-spice powder (五香粉), cumin powder (孜然粉). Let it rest overnight.
 * Roast at 350F for 1.5 - 2 hours, covered.
 * Brush additional honey and hoisin sauce, remove the cover, and roast at 400F for 15 minutes.
 * Garnish with chopped green scallion and serve!

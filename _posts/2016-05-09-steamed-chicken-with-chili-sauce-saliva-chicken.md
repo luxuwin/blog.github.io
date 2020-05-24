@@ -23,7 +23,7 @@ Recipe
 1. Make the red oil
   * slice scallion and ginger
   * heat vegetable oil to 250C (480F)
-  * add ginger and scallion until slightly charred, turn off the heat, and add one star anise and a small piece of chinese cinamon
+  * add ginger and scallion until slightly charred, turn off the heat, and add one star anise and a small piece of chinese cinnamon
   * stir and add first tbsp of chili powder
   * add the second tbsp of chili powder when the oil cools down to 150C (300F)
   * add the last tbsp of chili powder when the oil cools down to 100C (210F) and then add half tbsp of white sesame

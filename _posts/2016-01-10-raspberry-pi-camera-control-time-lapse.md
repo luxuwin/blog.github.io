@@ -9,7 +9,7 @@ excerpt: "Raspberry Pi is so powerful, I start asking 'can it control my camera'
 Raspberry Pi is so powerful, I start asking "can it control my camera"? I have been amazed by the fancy Time-Lapse photography, and wonder if Raspberry Pi can bring my experience to a new level. I have a Sony Mirrorless A6000, which comes with its own time-lapse app. But I don't quite like it for various reason (it costs 10 bucks!).
 After an hour of searching, it seems possible!
 
-First, very minimal hardwares requrement
+First, very minimal hardwares requirement
 
 * A tripod:  definitely need it.
 * AC power adapter +  DC Coupler ([link](http://www.amazon.com/gp/product/B0083EQS3I?psc=1&amp;redirect=true&amp;ref_=ox_sc_act_title_1&amp;smid=AA3DL1YN5S7YK)): you can use battery a shooting around 1-2 hours, but for longer you will need this.
