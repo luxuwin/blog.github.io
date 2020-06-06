@@ -35,4 +35,4 @@ Recipe:
 * Fold in blueberry
 * Divide the batter into 12 muffin liners, bake at 400F for 25 minutes (or till gold, and a toothpick comes out clean)
 
-{% include gallery caption="Easy and tasty Basque Burnt Cheesecake" %}
+{% include gallery caption="Easy and tasty muffins." %}
