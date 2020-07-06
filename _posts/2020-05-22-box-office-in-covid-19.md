@@ -2,7 +2,7 @@
 title:  "Box Office under COVID-19"
 date:   2020-05-22 21:55:09 -0400
 categories: Data
-excerpt: "Oven roasted port rib full of flavour"
+excerpt: "COVID-19 box office data."
 header:
   teaser: /assets/images/2020/box-office.png
 ---
