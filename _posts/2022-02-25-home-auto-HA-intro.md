@@ -7,6 +7,11 @@ categories:
 excerpt: "Getting started - let's start with the platform."
 header:
   teaser: /assets/images/2022/HA.png
+gallery:
+  - url: /assets/images/2022/HA.png
+    image_path: /assets/images/2022/HA.png
+    alt: "HA intro"
+    title: "HA intro"  
 ---
 This will be first one of the series for home automation. 
 
