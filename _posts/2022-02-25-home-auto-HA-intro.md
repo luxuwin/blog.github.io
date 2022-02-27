@@ -1,10 +1,12 @@
 ---
-title: Home Automation - Getting started with Homd Assistant
-date: 2022-02-26 00:00:01.000000000 -05:00
+title: Home Automation - Getting started with Home Assistant
+date: 2022-02-25 00:00:01.000000000 -05:00
 categories:
 - DIY
 - Home Automation
 excerpt: "Getting started - let's start with the platform."
+header:
+  teaser: /assets/images/2022/HA.png
 ---
 This will be first one of the series for home automation. 
 
@@ -16,9 +18,9 @@ On the other hand, your hands are tied to these systems and you lose the joy of 
 
 Now, we are ready to introduce the DIY-style platform, Home Assistant (HA). Before that, there are a few other alternatives, but HA has been paining a lot of momentum recently with huge of active users/developers. 
 
-Hop onto HA's home page (https://www.home-assistant.io/installation/), you can see there are a few different installation options. Many people uses a dedicated (e.g. an old laptop) to host HA, in which case HAIO gives the most flexibility. You will also have access to Add-Ons, which can be quite helpful.
+Hop onto HA's [home page](https://www.home-assistant.io/installation/), you can see there are a few different installation options. Many people uses a dedicated (e.g. an old laptop) to host HA, in which case HAIO gives the most flexibility. You will also have access to Add-Ons, which can be quite helpful.
 
-However, I opt-ed in the docker implementation, so I can migrate it easily and can still have control over the host machine. The installation process is quite easy. Just follow https://www.home-assistant.io/installation/raspberrypi#docker-compose.
+However, I opt-ed in the docker implementation, so I can migrate it easily and can still have control over the host machine. The installation process is quite easy. Just follow [the official doc](https://www.home-assistant.io/installation/raspberrypi#docker-compose).
 
 Create a `docker-compose.yml` file:
 ```
