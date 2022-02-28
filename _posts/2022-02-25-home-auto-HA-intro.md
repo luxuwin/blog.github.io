@@ -1,5 +1,5 @@
 ---
-title: Home Automation - Getting started with Home Assistant
+title: Home Automation 1 - Getting started with Home Assistant
 date: 2022-02-25 00:00:01.000000000 -05:00
 categories:
 - DIY

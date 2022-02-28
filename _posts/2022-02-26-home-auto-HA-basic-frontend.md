@@ -1,5 +1,5 @@
 ---
-title: Home Automation - Home Assistant basics - frontend
+title: Home Automation 2 - Home Assistant basics - frontend
 date: 2022-02-26 00:01:01.000000000 -05:00
 categories:
 - DIY
