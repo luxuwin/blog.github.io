@@ -84,9 +84,9 @@ compress_html:
 defaults:
   - scope:
       path: ""
-      type: posts_with_comments
+      type: posts
     values:
-      layout: single
+      layout: posts_with_comments
       entries_layout: grid
       comments: true
       related: true
