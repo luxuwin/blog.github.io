@@ -16,7 +16,7 @@ In short, what I did is massively reduced the number of files (GitHub has them a
 ## Comments backed by GitHub issues
 Speaking of comments, seems there has some interesting updates. For example, [utterances](https://github.com/utterance/utterances) uses GitHub's issue system for comments. All you need to do is:
 
-1. open https://github.com/apps/utterances , follow the instructions to install the app to the repository.
+1. open [https://github.com/apps/utterances](https://github.com/apps/utterances), follow the instructions to install the app to the repository.
 1. Copy the code snippet to the page or layout template.
 
 ## Web VS Code console
@@ -27,6 +27,6 @@ Another pleasant suprise is that I can use the [online VS Code console](https://
 
 Migration is really simple. I forked a branch from `master`, do all the cleanup/change in the new branch, re-directed the webpage in **Repo Settings -> Pages -> Branch -> (select the new branch)**.
 
-Then, GitHub will automatically build from the head, and you can monitor the progress from "Actions". Once you are happy with the results, just set the new branch as default and you are all good. Optionally, we may archive/delete the old branch and rename the new one to `master`.
+Then, GitHub will automatically build from the head, and you can monitor the progress from "Actions". Once you are happy with the results, just set the new branch as default and you are all good. Optionally, you may archive/delete the old branch and rename the new one to `master`.
 
 
