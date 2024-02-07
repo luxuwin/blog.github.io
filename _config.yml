@@ -125,4 +125,5 @@ author:
     #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-future: true
+# show posts in the future.
+# future: true
