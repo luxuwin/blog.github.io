@@ -126,4 +126,4 @@ author:
       # url: "https://instagram.com/"
 
 # show posts in the future.
-# future: true
+future: true
