@@ -6,7 +6,7 @@ categories:
 - Van
 excerpt: "Get started on a new journey."
 header:
-  teaser: /assets/images/2024/03/promaster.jpg 
+  teaser: /assets/images/2024/promaster.jpg 
 ---
 
 ## A New Journey!
@@ -22,7 +22,7 @@ It is a cargo van, which leaves us more freedom for customization. Not much upgr
 
 A high roof, with 159 WB. With the 159 wheel base, we expect to be able to park it in more US parking spot. Even a high roof, it should be low enough to drive through most bridges/tunnels.
 
-![Dimension](/assets/images/2024/02/promaster_dim.png)
+![Dimension](/assets/images/2024/promaster_dim.png)
 
 
 ## More to come - just be patient!
