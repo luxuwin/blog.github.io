@@ -25,11 +25,11 @@ Plus, 15A cables are much more flexible than the heavy 30A, which also requires 
 
 ## 12V or 24/36/48V
 
-This is an easy choice, since 12V accessories are much easier to find. Plus we don't expect to build a super large system, so 12V is pretty much enough. If you want to have heavy usage (e.g. a large inverter), then higher voltage means lower current, and hence lighter cables/smaller breakers/fuses. 
+This is an easy choice, since 12V accessories are much easier to find. Plus we don't expect to build a super large system, so 12V is pretty much enough. If you want to have heavy usage (e.g. a large inverter), then higher voltage means lower current, and hence lighter cables/smaller breakers/fuses.
 
 ## Solar of not
 
-Solar is good to have, but requires a lot of installation work. We assume alternator and AC charging will be enough. 
+Solar is good to have, but requires a lot of installation work. We assume alternator and AC charging will be enough.
 
 But to leave the door open, we left a 10/2 AWG wire from the back of the van to our electrical box, in case we change our mind. Just to spoil a bit more, we plan to wire our future solar power from the rear camera housing, which can be accessed from inside (thanks to the brillant idea from [buildagreenrv](https://www.buildagreenrv.com/our-conversion/promaster-diy-camper-van-conversion-electrical-and-solar/our-promaster-van-conversion-solar-panel-mounting/)).
 
@@ -39,7 +39,65 @@ Given our system is relatively small, we can fix everything into a medium sized 
 
 TODO - add a photo?
 
-
 # Diagram
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQD8HLrD1metkKtS7tb9MmISeYAhgid3T_icBIbgdmpELYz_LyinMFht-IXT_Ab172MsgWe1T-sS1ys/pub?w=823&amp;h=1524">
+
+# Key components
+
+## DC charging
+
+We picked [renogy's 50A charger]( https://a.co/d/92yhq02). It is a solid piece, which is very easy to setup. It is "almost" plug and play. One place that we descided to customize is "float charging voltage".
+
+*After the constant voltage stage, the charger will reduce the battery voltage to
+a float voltage set point*.
+
+So it is probably "slightly" better for the battery if it is set to the 100% SOC voltage, which is 13.6V in our case. The charger does not have a float charging mode, we had to setup ourselves. (Note, you will need to purchase a bluetooth transmitter in order to customize it.)
+
+As a bonus, this charger can be connected to solar power as well, so with max voltage ~25V. That limits the solar panels to be parallelly connected. On that other hand, the typical solar fitting only allows for wires no larger than 10AWG, which limits the current to 25-50A according to <https://www.bluesea.com/resources/1437>. Anyway, we didn't install solar in our initial build. Maybe something for the future.
+
+
+![dc_charger](/assets/images/2024/renogy_charger.jpg)
+
+
+## AC charging
+
+We picked [Victron Energy Blue Smart IP22 30A charger](https://www.amazon.com/gp/product/B08NY23BKF/ref=ox_sc_saved_image_6?smid=A1AUFI5NHGNZ61&th=1), which is a solid device - plug and play.
+
+![ac_charger](/assets/images/2024/victron_charger.jpg)
+
+
+## Fuse block
+
+We liked fine control/protection of individual lines, and we went with the [Blue Sea 12-cuicit fuse block](https://www.amazon.com/Blue-Sea-Systems-Blade-Block/dp/B000THQ0CQ/ref=pd_bxgy_vft_high_sccl_1/141-4950332-7660012?pd_rd_w=DjK41&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=MMHM8Z6TGMDPDTT8KMGY&pd_rd_wg=1wkj4&pd_rd_r=2a2e762d-f09a-40c5-a27b-3bef7485251b&pd_rd_i=B001P6FTHC&th=1).
+
+
+![fuse_block](/assets/images/2024/bluesea_fuse_block.jpg)
+
+
+## Fuses and Breakers
+
+Aside from the blade fuses used by the Fuse Block. We used circuit breakers for all our main positive wires.
+
+For DC, we used [Mechanical Products](https://www.digikey.com/en/products/detail/mechanical-products/175-S0-060-2R/12698402), which is made in US and seems to have good  custom service. We email them for a faulty device, and they sent a replacement the second day. Will see how their quality in the future.
+
+For AC, we picked [Square D's homeline breaker with GFCI/AFCI protctions](https://www.amazon.com/dp/B00NOHVCQM?ref=ppx_yo2ov_dt_b_product_details&th=1). The lesson learned is **avoid Amazon Third Party Sellers**! We received used units, which tripped from the first installation.
+
+![dc_breaker](/assets/images/2024/dc_breaker.jpg)
+
+
+## Monitor
+
+We picked [Renogy monitor with shunt](https://www.amazon.com/dp/B07RP5B5P7?linkCode=sl1&tag=yt-batterymonitors-20&linkId=254a5fb5f4db5c57a7330c978b9a0bb6&language=en_US&ref_=as_li_ss_tl&th=1). Straightward, but lacks bluetooth. Good enough for now.
+
+
+![monitor](/assets/images/2024/power_monitor_shunt.jpg)
+
+## Outlets
+
+We installed two 12V cigarette outlets and one 120V AC outlet on the side of our countertop. USB adaptor for 12V car cigarette outlets are so common nowadays, we decided only install cigarette outlets to give us more flexibility.
+
+# Organization
+
+The main challenge is to fit everything in a small space, while keeping a good ventilation.
+
