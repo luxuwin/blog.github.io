@@ -6,7 +6,7 @@ categories:
 - Van
 excerpt: "Insulation and Noise Reduction."
 header:
-  teaser: /assets/images/2024/insulation.jpg 
+  teaser: /assets/images/2024/insulation.jpg
 ---
 
 The floor, wall and ceiling in a van is a thin sheet metal, which means  you will feel the nature's temperature much more closely. Insulation is always the first thing to consider in a van conversion.
