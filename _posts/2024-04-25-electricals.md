@@ -6,7 +6,7 @@ categories:
 - Van
 excerpt: "Electricals."
 header:
-  teaser: /assets/images/2024/wiring_diagram.jpg 
+  teaser: /assets/images/2024/wiring_diagram.png 
 ---
 
 This is a big topic, and is the one that lasted throughout the build.
