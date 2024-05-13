@@ -6,12 +6,12 @@ categories:
 - Van
 excerpt: "Electricals."
 header:
-#   teaser: /assets/images/2024/velit_heater.jpg 
+  teaser: /assets/images/2024/wiring_diagram.jpg 
 ---
 
 This is a big topic, and is the one that lasted throughout the build.
 
-# Design choice
+# Design Choice
 
 ## AC or Not
 
@@ -41,9 +41,15 @@ TODO - add a photo?
 
 # Diagram
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQD8HLrD1metkKtS7tb9MmISeYAhgid3T_icBIbgdmpELYz_LyinMFht-IXT_Ab172MsgWe1T-sS1ys/pub?w=823&amp;h=1524">
+![wiring](/assets/images/2024/wiring_diagram.png)
 
 # Key components
+
+## Battery
+
+We used Renogy's [200Ah 12V Lithium Iron Phosphate Battery](https://www.amazon.com/gp/product/B0C9ZFFDHP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), it is a heavy beast. We got a deal during the holiday season!
+
+* [Manuel](https://store-fhnch.mybigcommerce.com/content/Renogy%20Core%20200ah/Renogy%20Core%20Series%2012V%20200Ah%20Battery%20Manual.pdf)
 
 ## DC charging
 
@@ -56,9 +62,7 @@ So it is probably "slightly" better for the battery if it is set to the 100% SOC
 
 As a bonus, this charger can be connected to solar power as well, so with max voltage ~25V. That limits the solar panels to be parallelly connected. On that other hand, the typical solar fitting only allows for wires no larger than 10AWG, which limits the current to 25-50A according to <https://www.bluesea.com/resources/1437>. Anyway, we didn't install solar in our initial build. Maybe something for the future.
 
-
 ![dc_charger](/assets/images/2024/renogy_charger.jpg)
-
 
 ## AC charging
 
@@ -66,14 +70,11 @@ We picked [Victron Energy Blue Smart IP22 30A charger](https://www.amazon.com/gp
 
 ![ac_charger](/assets/images/2024/victron_charger.jpg)
 
-
 ## Fuse block
 
 We liked fine control/protection of individual lines, and we went with the [Blue Sea 12-cuicit fuse block](https://www.amazon.com/Blue-Sea-Systems-Blade-Block/dp/B000THQ0CQ/ref=pd_bxgy_vft_high_sccl_1/141-4950332-7660012?pd_rd_w=DjK41&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=MMHM8Z6TGMDPDTT8KMGY&pd_rd_wg=1wkj4&pd_rd_r=2a2e762d-f09a-40c5-a27b-3bef7485251b&pd_rd_i=B001P6FTHC&th=1).
 
-
 ![fuse_block](/assets/images/2024/bluesea_fuse_block.jpg)
-
 
 ## Fuses and Breakers
 
@@ -81,15 +82,13 @@ Aside from the blade fuses used by the Fuse Block. We used circuit breakers for 
 
 For DC, we used [Mechanical Products](https://www.digikey.com/en/products/detail/mechanical-products/175-S0-060-2R/12698402), which is made in US and seems to have good  custom service. We email them for a faulty device, and they sent a replacement the second day. Will see how their quality in the future.
 
-For AC, we picked [Square D's homeline breaker with GFCI/AFCI protctions](https://www.amazon.com/dp/B00NOHVCQM?ref=ppx_yo2ov_dt_b_product_details&th=1). The lesson learned is **avoid Amazon Third Party Sellers**! We received used units, which tripped from the first installation.
-
 ![dc_breaker](/assets/images/2024/dc_breaker.jpg)
 
+For AC, we picked [Square D's homeline breaker with GFCI protctions](https://www.homedepot.com/p/Square-D-Homeline-15-Amp-Single-Pole-GFCI-Circuit-Breaker-HOM115GFICP/100153356). Note, the GFCI/AFCI dual breaker requires different breaker housing!
 
 ## Monitor
 
 We picked [Renogy monitor with shunt](https://www.amazon.com/dp/B07RP5B5P7?linkCode=sl1&tag=yt-batterymonitors-20&linkId=254a5fb5f4db5c57a7330c978b9a0bb6&language=en_US&ref_=as_li_ss_tl&th=1). Straightward, but lacks bluetooth. Good enough for now.
-
 
 ![monitor](/assets/images/2024/power_monitor_shunt.jpg)
 
@@ -99,5 +98,8 @@ We installed two 12V cigarette outlets and one 120V AC outlet on the side of our
 
 # Organization
 
-The main challenge is to fit everything in a small space, while keeping a good ventilation.
+The main challenge is to fit everything in a small space, while keeping a good ventilation. We ended up managing to fit everything in a box:
 
+![org](/assets/images/2024/electrical_box.jpg)
+
+Admittedly, the wiring can be improved. But the wires are heavy and short, which are relatively hard to work with.
