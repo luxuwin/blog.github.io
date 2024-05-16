@@ -13,7 +13,7 @@ gallery:
   - url: /assets/images/2020/muffin1.jpg
     image_path: /assets/images/2020/muffin1.jpg
     alt: "Blueberry Muffin"
-    title: "Blueberry Muffin"    
+    title: "Blueberry Muffin"
 ---
 
 Ingredients (12 standard size muffins)
