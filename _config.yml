@@ -62,11 +62,7 @@ search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
 
 # Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :  UA-166298388-1
-    anonymize_ip         : # true, false (default)
+google_analytics: G-33SS3TEMG3
 
 # Outputting
 permalink: /:categories/:title/
