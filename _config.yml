@@ -62,7 +62,7 @@ search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
 
 # Analytics
-google_analytics: G-33SS3TEMG3
+google_analytics: G-EDELYTP41B
 
 # Outputting
 permalink: /:categories/:title/
