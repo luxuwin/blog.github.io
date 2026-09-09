@@ -4,7 +4,7 @@ date: 2026-08-26 00:00:01.000000000 -05:00
 categories:
 - Travel
 - National Parks
-excerpt: "Deep blue lake"
+excerpt: "deep blue lake"
 header:
   teaser: /assets/images/NP/Craterlake1.jpg
 ---

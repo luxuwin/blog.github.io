@@ -4,7 +4,7 @@ date: 2026-08-25 00:00:01.000000000 -05:00
 categories:
 - Travel
 - National Parks
-excerpt: "Magic Giant Trees"
+excerpt: "magic giant trees"
 header:
   teaser: /assets/images/NP/Redwood1.jpg
 ---
