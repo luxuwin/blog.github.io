@@ -1,6 +1,6 @@
 ---
-title: NP - Redwood, CA
-date: 2024-08-25 00:00:01.000000000 -05:00
+title: Redwood NP, CA
+date: 2026-08-25 00:00:01.000000000 -05:00
 categories:
 - Travel
 - National Parks
