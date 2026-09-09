@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/NP/Redwood1.jpg
 ---
 
-## 2026.08.24 - 2026.08.2
+## 2026.08.24 - 2026.08.25
 We visited the Redwood State and National Parks in an RV. This is the only park that is both a state park and national park, and home to the tallest trees on the earth. 
 
 ![Redwood](/assets/images/NP/Redwood1.jpg)

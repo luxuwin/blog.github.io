@@ -10,7 +10,7 @@ header:
 ---
 
 ## 2026.08.26 - 2026.08.27
-We visited the Crater Lake National Parks in an RV. An insanely deep lake rests entirely inside the sheer-walled caldera of a collapsed volcano, the deepest lake in North America.
+We visited the Crater Lake National Parks in an RV. An insanely deep lake rests entirely inside the sheer-walled caldera of a collapsed volcano, the deepest lake in the United States.
 
 ![Craterlake](/assets/images/NP/Craterlake1.jpg)
 
