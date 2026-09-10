@@ -6,7 +6,7 @@ categories:
 - National Parks
 excerpt: "twisted joshua trees and rugged rocks"
 header:
-  teaser: /assets/images/NP/JoshuaTree4.jpg
+  teaser: /assets/images/NP/JoshuaTree1.jpg
 ---
 
 ## 2025.12.27 - 2025.12.28
