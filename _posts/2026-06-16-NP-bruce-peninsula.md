@@ -6,7 +6,7 @@ categories:
 - National Parks
 excerpt: "quite turquoise curing waters"
 header:
-  teaser: /assets/images/NP/BrucePeninsula1.jpg
+  teaser: /assets/images/NP/BrucePeninsula2.jpg
 ---
 
 ## 2026.06.16 - 2026.06.21

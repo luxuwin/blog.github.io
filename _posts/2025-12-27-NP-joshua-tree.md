@@ -4,7 +4,7 @@ date: 2025-12-27 00:00:01.000000000 -05:00
 categories:
 - Travel
 - National Parks
-excerpt: "twisted joshua trees and rugged rocks"
+excerpt: "dancing trees & rugged rocks"
 header:
   teaser: /assets/images/NP/JoshuaTree1.jpg
 ---
