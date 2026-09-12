@@ -4,7 +4,7 @@ date: 2024-12-24 00:00:01.000000000 -05:00
 categories:
 - Travel
 - National Parks
-excerpt: "Stunning orange hoodoos with snow"
+excerpt: stunning orange hoodoos with snow
 header:
   teaser: /assets/images/NP/BryceCanyon3.jpg
 ---
