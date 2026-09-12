@@ -2,11 +2,10 @@
 title: Van life - where to stay
 date: 2024-08-26 00:00:01.000000000 -05:00
 categories:
-- Travel
 - Van
 excerpt: "Van life - where to stay."
-# header:
-#   teaser: /assets/images/2024/bed_with_table.jpg
+header:
+  teaser: /assets/images/2024/van1.jpg
 ---
 
 Our first experience on where to stay is right here!
