@@ -1,5 +1,5 @@
 ---
-title: Capitol Ree NP, UT
+title: Capitol Reef NP, UT
 date: 2024-12-25 00:00:01.000000000 -05:00
 categories:
 - Travel
@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/NP/CapitolReef3.jpg
 ---
 
-## 2024.12.24
+## 2024.12.25
 Part of our Utah mighty 5 national park Christmas road trip. We hiked Hickman Natural Bridge trail on Christmas day, quite and scenic.
 
 Origin of the park name:
