@@ -1,5 +1,5 @@
 ---
-title: Banff, Jasper & Yoho National Park, Canada
+title: Banff, Jasper & Yoho NPs, Canada
 date: 2023-08-27 00:00:01.000000000 -05:00
 categories:
 - Travel
