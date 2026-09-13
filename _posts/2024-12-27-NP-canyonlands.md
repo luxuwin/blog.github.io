@@ -6,7 +6,7 @@ categories:
 - National Parks
 excerpt: massive canyon carved by river
 header:
-  teaser: /assets/images/NP/CanyonLands3.jpg
+  teaser: /assets/images/NP/CanyonLands6.jpg
 ---
 
 ## 2024.12.27 - 2024.12.28
