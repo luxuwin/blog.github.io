@@ -2,7 +2,7 @@
 title:  "Cleveland Downtown"
 date:   2024-07-27 00:00:01 -0400
 categories: Photography
-excerpt: "Cleveland Downtown"
+excerpt: "An interesting geometric contrast"
 header:
   teaser: /assets/images/2024/Cleveland.jpg
 gallery:

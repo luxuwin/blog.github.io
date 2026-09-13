@@ -6,7 +6,7 @@ categories:
 - National Parks
 excerpt: "turquoise glacial lakes & massive icefields"
 header:
-  teaser: /assets/images/NP/banff3.jpg
+  teaser: /assets/images/NP/banff4.jpg
 ---
 
 ## 2023.08.27 - 2023.09.02
