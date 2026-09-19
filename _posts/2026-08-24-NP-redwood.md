@@ -6,7 +6,7 @@ categories:
 - National Parks
 excerpt: "magic giant trees"
 header:
-  teaser: /assets/images/NP/Redwood1.jpg
+  teaser: /assets/images/NP/Redwood1b.jpg
 ---
 
 ## 2026.08.24 - 2026.08.25
