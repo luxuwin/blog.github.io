@@ -6,7 +6,7 @@ categories:
 - National Parks
 excerpt: "sand dunes along Lake Michigan"
 header:
-  teaser: /assets/images/NP/IndianaDunes4.jpg
+  teaser: /assets/images/NP/IndianaDunes1.jpg
 ---
 
 ## 2024.07.29
