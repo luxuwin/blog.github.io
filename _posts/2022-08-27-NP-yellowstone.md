@@ -1,5 +1,5 @@
 ---
-title: Yellowstone NP, TN
+title: Yellowstone NP, WY
 date: 2022-08-27 00:00:01.000000000 -05:00
 categories:
 - Travel
@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/NP/yellowstone26.JPG
 ---
 
-## 2011.08.17 - 2011.08.21
+## 2011.08.16 - 2011.08.21
 Encountered a bison when we stayed in the tent at the Bridge Bay campground, it was huge!
 
 ![Yellowstone](/assets/images/NP/yellowstone11.JPG)
